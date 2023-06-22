@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asquigglytwist
-- 👀 I’m interested in Security, Reverse Engineering, Postmortem analysis
+- 👀 I’m interested in Security, Reverse Engineering, PostMortem analysis
 - 🌱 I’m currently learning Reverse Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
